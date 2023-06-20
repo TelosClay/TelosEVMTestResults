@@ -1,0 +1,13 @@
+﻿Test Number,OC,CPU Time,Trx Type,Top Result
+1,yes,500,Transfers,15200
+2,yes,350,Transfers,10680
+3,yes,200,Transfers,6390
+4,yes,500,Swaps,1826
+5,yes,350,Swaps,1427
+6,yes,200,Swaps,808
+7,no,500,Transfers,4390
+8,no,350,Transfers,3160
+9,no,200,Transfers,1930
+10,no,500,Swaps,357
+11,no,350,Swaps,273
+12,no,200,Swaps,145
